@@ -1,8 +1,8 @@
 # Significant Hobbies
 
-**Portfolio organization** — a growing family of independent products connected by meaningful hobbies, curiosity, and personal growth.
+**Personal project organization** — Significant Hobbies is the core project; the other repositories are independent tools I made for myself.
 
-Personal software for learning, media, research, and living well.
+Personal software for learning, media, research, and living well—not a unified product suite.
 
 - **[Significant Hobbies](https://github.com/Significant-Hobbies/significanthobbies)** — map hobby journeys across life phases · [significanthobbies.com](https://significanthobbies.com)
 - **[Reader](https://github.com/Significant-Hobbies/reader)** — capture, annotate, and AI-chat with articles and PDFs
