@@ -1,16 +1,54 @@
-# Significant Hobbies
+# Significant-Hobbies
 
-**Personal project organization** — Significant Hobbies is the core project; the other repositories are independent tools I made for myself.
+**Life planning, evidence-graded reference, and personal tools.**
 
-Personal software for learning, media, research, and living well—not a unified product suite.
+Significant-Hobbies builds products for private daily rituals and public
+living — from hobby tracking to evidence-graded health reference to
+lean-back entertainment.
 
-- **[Significant Hobbies](https://github.com/Significant-Hobbies/significanthobbies)** — map hobby journeys across life phases · [significanthobbies.com](https://significanthobbies.com)
-- **[Reader](https://github.com/Significant-Hobbies/reader)** — capture, annotate, and AI-chat with articles and PDFs
-- **[Anime List](https://github.com/Significant-Hobbies/anime-list)** — multi-axis anime discovery, ranking, and watchlists
-- **[SWE Interview Prep](https://github.com/Significant-Hobbies/swe-interview-prep)** — DSA, system design, and behavioral prep with FSRS
-- **[LoopTV](https://github.com/Significant-Hobbies/looptv)** — TV-like random video player with curated stations
-- **[Chess Coach](https://github.com/Significant-Hobbies/chess)** — play Stockfish with streamed, multi-provider AI coaching · [chess.significanthobbies.com](https://chess.significanthobbies.com)
-- **[Materia](https://github.com/Significant-Hobbies/materia)** — interactive anatomy joined to cited, evidence-graded remedies
-- **[Protein Index](https://github.com/Significant-Hobbies/protein-index)** — searchable reference for protein foods and nutrition comparisons
+## What we ship
 
-Built by [Sarthak Agrawal](https://github.com/sarthakagrawal927).
+- **[Significant Hobbies](https://significanthobbies.com)** — life planner for private daily rituals and public living. Hobbies, bucket lists, and side quests over time.
+- **[Materia](https://materia.significanthobbies.com)** — evidence-graded reference for remedies organized by body part. Body → condition → remedy → compound → study, with citations. Ad-free, not medical advice.
+- **[LoopTV](https://tv.significanthobbies.com)** — TV-style random video player for lean-back browsing of curated channels.
+- **[MAL Explorer](https://anime.significanthobbies.com)** — anime and manga discovery with multi-axis filtering and watchlists.
+- **[Chess Coach](https://chess.significanthobbies.com)** — AI-coached chess game for practice with coaching feedback.
+- **[Reader](https://read.significanthobbies.com)** — research library: capture, annotate, and AI-chat over your reading. Private by default.
+- **[SWE Interview Prep](https://learn.significanthobbies.com)** — SWE learning OS with FSRS spaced repetition, drills, and feedback.
+
+## Product domains
+
+| Product | URL | What it does |
+|---|---|---|
+| Significant Hobbies | https://significanthobbies.com | Life planner for rituals and public living |
+| Materia | https://materia.significanthobbies.com | Evidence-graded remedy reference with citations |
+| LoopTV | https://tv.significanthobbies.com | TV-style random video player |
+| MAL Explorer | https://anime.significanthobbies.com | Anime/manga discovery with multi-axis filtering |
+| Chess Coach | https://chess.significanthobbies.com | AI-coached chess practice |
+| Reader | https://read.significanthobbies.com | Private research library with AI chat |
+| SWE Interview Prep | https://learn.significanthobbies.com | SWE learning OS with spaced repetition |
+
+## Fleet hub
+
+Significant-Hobbies is a supporting organization rather than one of the four
+spotlight products on Sarthak's personal landing page. The broader fleet
+directory lives at [SaaS Maker](https://sassmaker.com).
+
+Significant-Hobbies is part of the [Foundry fleet](https://sassmaker.com) — a
+personal product fleet by Sarthak Agrawal. See the [fleet build log](https://sassmaker.com/build-log)
+for the real git history behind these products.
+
+- **Hub**: https://sassmaker.com
+- **Fleet build log**: https://sassmaker.com/build-log
+- **Significant Hobbies product page**: https://sassmaker.com/p/significanthobbies
+- **Materia product page**: https://sassmaker.com/p/materia
+- **LoopTV product page**: https://sassmaker.com/p/looptv
+- **MAL Explorer product page**: https://sassmaker.com/p/anime-list
+- **Chess Coach product page**: https://sassmaker.com/p/chess
+- **Reader product page**: https://sassmaker.com/p/reader
+- **SWE Interview Prep product page**: https://sassmaker.com/p/swe-interview-prep
+
+## Agent surfaces
+
+Every product exposes machine-readable entrypoints (llms.txt, /api/ai, index.md).
+See each product's page on the hub for the full list.
